@@ -1,9 +1,6 @@
-# Grocery-Store
-Grocery store web application powered by Angular 17.
-=======
 # GroceryStore
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
+This project was generated with Angular version 17.0.10.
 
 ## Development server
 
